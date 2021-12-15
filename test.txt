@@ -1,1 +1,2 @@
  this file contains the text related data
+ i contains useful informaion 
