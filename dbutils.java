@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 this file contains he inf about java
 =======
 hello guys git command is very imp....
